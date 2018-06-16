@@ -12,4 +12,4 @@ gem 'puma'
 
 gem 'rake'
 
-gem 'html-proofer',  '~> 2.0'
+gem 'html-proofer', '~> 2.6', '>= 2.6.4'
